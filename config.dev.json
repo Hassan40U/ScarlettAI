@@ -1,12 +1,12 @@
 {
   "lianeAPI": {
-    "title": "🫧|SAÍ CHÍ",
+    "title": "ChEsCA",
     "titleFont": "bold",
     "contentFont": "fancy"
   },
   "facebookAccount": {
-    "email": "khlyofficial+20@yandex.ru",
-    "password": "khilaytheowner02",
+    "email": "flogin485@gmail.com ",
+    "password": "zzzxxx",
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
@@ -23,15 +23,15 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100086499831547"
+    "61555393416824"
   ],
   "whiteListMode": {
-    "enable": false,
-    "whiteListIds": [],
+    "enable": true,
+    "whiteListIds": [61555393416824],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "🫧SAÍ CHÍ",
-  "prefix": "*",
+  "nickNameBot": "CheSCA",
+  "prefix": "-",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
